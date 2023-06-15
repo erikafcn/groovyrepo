@@ -1,5 +1,7 @@
 /**
- * This method will print the first not repeating char in the input string or -1 if not present
+ * This method will print the first not repeating char in the input string or -1 if nothing is present
+ * @param word
+ * @return word[i]
  */
 
 def word = 'elephant'
